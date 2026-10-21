@@ -98,7 +98,7 @@ The detailed findings, numerical results, and supporting visualizations are avai
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Ronak-Bhadola/Sales-Data-Analysis.git
+git clone https://github.com/Ronak-Bhadola/Basic-Data-Analysis.git
 ```
 
 ### 2. Navigate to the project directory
