@@ -1,0 +1,9 @@
+
+# Requirements for Sales Analysis Project
+# Install dependencies using: pip install -r requirements.txt
+
+numpy
+pandas
+matplotlib
+seaborn
+plotly
