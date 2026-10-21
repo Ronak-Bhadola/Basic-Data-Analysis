@@ -35,7 +35,7 @@ The dataset is included in this repository as `Sample_Superstore.csv`.
 ## Project Structure
 
 ```text
-Sales-Data-Analysis/
+Basic-Data-Analysis/
 │
 ├── Sales_Analysis.ipynb
 ├── Sample_Superstore.csv
@@ -104,7 +104,7 @@ git clone https://github.com/Ronak-Bhadola/Sales-Data-Analysis.git
 ### 2. Navigate to the project directory
 
 ```bash
-cd Sales-Data-Analysis
+cd Basic-Data-Analysis
 ```
 
 ### 3. Install the required libraries
